@@ -1,0 +1,23 @@
+.country{
+  width: 400px;
+  border-radius: 10px;
+  display: inline-block;
+  overflow: hidden;
+}
+.country .flag_wrapper{
+  border-bottom: 1px solid #b1aeae;
+}
+.country .flag_wrapper img{
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+.country .country_info{
+  padding: 20px;
+}
+.box-shadow{
+  box-shadow: 2px 4px 23px 0px rgba(147,129,129,0.92);
+-webkit-box-shadow: 2px 4px 23px 0px rgba(147,129,129,0.92);
+-moz-box-shadow: 2px 4px 23px 0px rgba(147,129,129,0.92);
+}
